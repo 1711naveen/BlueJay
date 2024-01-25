@@ -13,4 +13,22 @@ Write a program that:
 4. Write a clean code with code comments and assumptions (if any) you are making
 5. Create a public GIT repository
 6. Push your codebase that git repo.
-7. Push console output as output.txt to base folder of GIT repo 
+7. Push console output as output.txt to base folder of GIT repo
+
+
+
+## Installation
+
+First clone the repository
+
+```bash
+  git clone https://github.com/1711naveen/BlueJay.git
+  cd BlueJay
+```
+
+Install packages form Requirements.txt
+
+```bash
+  pip install -r ./requirements.txt
+```
+    
