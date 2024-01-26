@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Step 1: Take the file as input
-xlsx_file_path = 'C:/Users/ynnav/Downloads/BlueJay/Assignment_Timecard.xlsx'
+xlsx_file_path = './Assignment_Timecard.xlsx'
 
 # Step 2: Programmatically analyze the file
 # Read the Excel file into a pandas DataFrame
